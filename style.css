@@ -322,6 +322,13 @@ h6{
     color: white;
     text-align: center;
 }
+h7{
+    color: blue;
+    font-weight: 800;
+    font-size: 30px;
+    font-family: Helvetica,sans-serif;
+    margin-left: 35%;
+}
 p3{ color: blue;
     font-size: 16px;
     font-weight: 600;
